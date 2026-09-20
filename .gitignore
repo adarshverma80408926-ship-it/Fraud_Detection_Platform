@@ -1,0 +1,17 @@
+.venv/
+.venv-linux/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+.env
+.env.*
+
+.vscode/
+
+data/raw/*.csv
+data/processed/*
+models/*.pkl
+
+*.log
